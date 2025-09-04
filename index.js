@@ -3,7 +3,7 @@ import bip39 from "bip39";
 import { derivePath } from "ed25519-hd-key";
 
 const PASSPHRASE_24 =
-  "shadow coral cousin spend grab jealous day valid mad ball oyster unfair sauce punch push shadow coral cousin spend grab jealous day valid beyond knife spray chicken online wide tumble visit sweet";
+  "mad ball oyster unfair sauce punch push shadow coral cousin spend grab jealous day valid beyond knife spray chicken online wide tumble visit sweet";
 
 const DESTINATION =
   "MALYJFJ5SVD45FBWN2GT4IW67SEZ3IBOFSBSPUFCWV427NBNLG3PWAAAAAAAAIAGP5T26";
